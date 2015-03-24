@@ -11,9 +11,9 @@ Tutorials and Guides
 
 ### Intermediate ###
 
-* [The yield keyword - Stackoverflow](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python/231855#231855)
+* [The yield keyword (iterables and generators included) - Stackoverflow](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python/231855#231855)
 * [A Guide to Python's Magic Methods - Rafe Kettler](http://www.rafekettler.com/magicmethods.html)
-
+* [Generator Tricks For Systems Programmers - David Beazley](http://www.dabeaz.com/generators/Generators.pdf) ([Code samples](http://www.dabeaz.com/generators/))
 
 ### Expert ###
 
@@ -26,16 +26,17 @@ Tutorials and Guides
 Miscellaneous Implementations
 -----------------------------
 
-* [Discovering Python - David M. Beazley](https://speakerdeck.com/pycon2014/discovering-python-by-david-beazley) [(video)](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8)
+* [Discovering Python - David M. Beazley](https://speakerdeck.com/pycon2014/discovering-python-by-david-beazley) [(video - 47:49)](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8)
 	> So, what happens when you lock a Python programmer in a secret vault containing 1.5 TBytes of C++ source code and no internet connection? Find out as I describe how I used Python as a secret weapon of "discovery" in an epic legal battle.
 
 
 Yet to Categorize
 -----------------
 
-* [Generators: The Final Frontier - David M. Beazley](http://www.dabeaz.com/finalgenerator/FinalGenerator.pdf) ([Video](http://www.youtube.com/watch?v=5-qadlG7tWo))
-* [Learn Python Through Public Data Hacking - David M. Beazley](http://www.dabeaz.com/pydata/LearnPyData.pdf) ([Video](http://pyvideo.org/video/1725/learn-python-through-public-data-hacking))
-* [Python 3 Metaprogramming - David M. Beazley](http://www.dabeaz.com/py3meta/Py3Meta.pdf) ([Video](http://pyvideo.org/video/1716/python-3-metaprogramming))
-* [Python: A "Toy" Language - David M. Beazley](https://speakerdeck.com/pyconslides/python-a-toy-language-by-david-beazley) [(Video)](http://pyvideo.org/video/1729/python-a-toy-language)
+* [A Curious Course on Coroutines and Concurrency - David Beazley](http://www.dabeaz.com/coroutines/Coroutines.pdf) ([Code samples](http://www.dabeaz.com/coroutines/))
+* [Generators: The Final Frontier - David Beazley](http://www.dabeaz.com/finalgenerator/FinalGenerator.pdf) ([Video - 2:55:35](http://www.youtube.com/watch?v=5-qadlG7tWo))
+* [Learn Python Through Public Data Hacking - David Beazley](http://www.dabeaz.com/pydata/LearnPyData.pdf) ([Video](http://pyvideo.org/video/1725/learn-python-through-public-data-hacking))
+* [Python 3 Metaprogramming - David Beazley](http://www.dabeaz.com/py3meta/Py3Meta.pdf) ([Video](http://pyvideo.org/video/1716/python-3-metaprogramming))
+* [Python: A "Toy" Language - David Beazley](https://speakerdeck.com/pyconslides/python-a-toy-language-by-david-beazley) [(Video)](http://pyvideo.org/video/1729/python-a-toy-language)
 * [Decorators: A Powerful Weapon in Your Python Arsenal - Colton Myers](https://speakerdeck.com/pycon2014/decorators-a-powerful-weapon-in-your-python-arsenal-by-colton-myers)
 * [PyCon 2014 Presentations](https://speakerdeck.com/pycon2014)
