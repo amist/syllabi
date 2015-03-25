@@ -17,10 +17,10 @@ Tutorials and Guides
 
 ### Expert ###
 
-* [Generator Tricks For Systems Programmers - David Beazley](http://www.dabeaz.com/generators/Generators.pdf) ([Code samples](http://www.dabeaz.com/generators/))
+* [Generator Tricks For Systems Programmers - David Beazley](http://www.dabeaz.com/generators/Generators.pdf) [(Code samples)](http://www.dabeaz.com/generators/)
 * [Python 3: Using "yield from" in Generators - Part 1 - Simeon Visser](http://simeonvisser.com/posts/python-3-using-yield-from-in-generators-part-1.html)
  * (Optional) [Python 3: Using "yield from" in Generators - Part 2 - Simeon Visser](http://simeonvisser.com/posts/python-3-using-yield-from-in-generators-part-2.html)
-* [A Curious Course on Coroutines and Concurrency - David Beazley](http://www.dabeaz.com/coroutines/Coroutines.pdf) ([Code samples](http://www.dabeaz.com/coroutines/))
+* [A Curious Course on Coroutines and Concurrency - David Beazley](http://www.dabeaz.com/coroutines/Coroutines.pdf) [(Code samples)](http://www.dabeaz.com/coroutines/)
 
 ### Guru ###
 
