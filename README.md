@@ -1,4 +1,4 @@
 Content
 =======
 
-[Python](python.md)
+[Python](python/python.md)
