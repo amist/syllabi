@@ -13,6 +13,25 @@ Tools
 -----
 
 * [PyPy](python_pypy.md)
+* [Virtualenv]()
+
+---
+
+Frameworks
+----------
+
+### Web Frameworks ###
+
+* [Django]()
+* [CherryPy]()
+* [Flask]()
+* [Bottle]()
+
+### Misc ###
+
+##### Web Scraping #####
+
+* [Scrapy]()
 
 ---
 

@@ -7,6 +7,10 @@ Tutorials and Guides
 
 ### Beginner ###
 
+* [PyPy - Wikipedia](http://en.wikipedia.org/wiki/PyPy)
+* [What is PyPy?](http://pypy.org/features.html)
+* [Download and install](http://pypy.org/download.html)
+
 ### Intermediate ###
 
 ### Expert ###
@@ -18,5 +22,5 @@ Tutorials and Guides
 Discussions
 -----------
 
-* [?????? - David M. Beazley]()
-	> ?????
+* [Tinkering with PyPy - David M. Beazley (Video - 43:23)](https://www.youtube.com/watch?v=l_HBRhcgeuQ)
+
