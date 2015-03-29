@@ -5,6 +5,8 @@ The Python Language Syllabus
 Tutorials and Guides
 --------------------
 
+The categorization by levels is done not by the difficulty, but by the necessity. For example, if a subject is in the *expert* section, it doesn't mean that it takes an expert to understand it, but that usually there's no need for a less-than-expert programmer to be familiar with this subject. The contrary is also true: when a subject is in the *beginner* section it doesn't imply that this subject is necessarily simple or easy.
+
 ### Beginner ###
 
 * [The Python Tutorial](https://docs.python.org/2/tutorial/index.html)
@@ -40,3 +42,11 @@ Yet to Categorize
 * [Improve Your Python: 'yield' and Generators Explained - Jeff Knupp](http://www.jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
 * contextmanager decorator
 * [import hooks](http://xion.org.pl/2012/05/06/hacking-python-imports/)
+* Python Gotchas
+	* https://pythonconquerstheuniverse.wordpress.com/category/python-gotchas/
+	* http://stackoverflow.com/questions/530530/python-2-x-gotchas-and-landmines
+	* http://www.ferg.org/projects/python_gotchas.html
+	* http://docs.python-guide.org/en/latest/writing/gotchas/
+* functools - https://docs.python.org/2/library/functools.html
+* memoryview - http://stackoverflow.com/questions/18655648/what-exactly-is-the-point-of-memoryview-in-python
+* Hidden features of python: http://stackoverflow.com/questions/101268/hidden-features-of-python
