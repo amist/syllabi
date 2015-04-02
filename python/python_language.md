@@ -24,10 +24,12 @@ The categorization by levels is done not by the difficulty, but by the necessity
 * [Python 3: Using "yield from" in Generators - Part 1 - Simeon Visser](http://simeonvisser.com/posts/python-3-using-yield-from-in-generators-part-1.html)
  * (Optional) [Python 3: Using "yield from" in Generators - Part 2 - Simeon Visser](http://simeonvisser.com/posts/python-3-using-yield-from-in-generators-part-2.html)
 * [A Curious Course on Coroutines and Concurrency - David Beazley](http://www.dabeaz.com/coroutines/Coroutines.pdf) [(Code samples)](http://www.dabeaz.com/coroutines/)
+* [The exec Statement and A Python Mystery - Dan Crosta](http://late.am/post/2012/04/30/the-exec-statement-and-a-python-mystery.html)
 
 ### Guru ###
 
 * [What is a metaclass - Stackoverflow](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python/6581949#6581949)
+* [Marmoset Patching](https://gist.github.com/davisagli/2317969)
 
 ---
 
@@ -50,3 +52,8 @@ Yet to Categorize
 * functools - https://docs.python.org/2/library/functools.html
 * memoryview - http://stackoverflow.com/questions/18655648/what-exactly-is-the-point-of-memoryview-in-python
 * Hidden features of python: http://stackoverflow.com/questions/101268/hidden-features-of-python
+* Modules:
+	* inspect
+	* tempfile
+* [Generating full stack traces for exceptions in Python - Graham Dumpleton](http://blog.dscpl.com.au/2015/03/generating-full-stack-traces-for.html)
+* [AST](https://docs.python.org/2/library/ast.html)  
