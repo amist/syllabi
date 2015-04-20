@@ -11,11 +11,13 @@ The categorization by levels is done not by the difficulty, but by the necessity
 
 * [The Python Tutorial](https://docs.python.org/2/tutorial/index.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+* [Facts and Myths about Names and Values - Ned Batchelder](http://nedbatchelder.com/text/names1/names1.html#1)
 
 ### Intermediate ###
 
 * [The yield keyword (iterables and generators included) - Stackoverflow](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python/231855#231855)
 * [The Python "with" Statement by Example - Jeff Preshing](http://preshing.com/20110920/the-python-with-statement-by-example/)
+* [Python Iteration - Ned Batchelder](http://nedbatchelder.com/text/iter/iter.html#1)
 * [A Guide to Python's Magic Methods - Rafe Kettler](http://www.rafekettler.com/magicmethods.html)
 
 ### Expert ###
