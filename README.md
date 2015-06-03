@@ -1,4 +1,5 @@
 Content
 =======
 
-[Python](python/python.md)
+* [Python](python/python.md)
+* [JavaScript](javascript/javascript.md)
