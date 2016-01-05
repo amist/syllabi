@@ -41,6 +41,7 @@ Yet to Categorize
 * [Generators: The Final Frontier - David Beazley](http://www.dabeaz.com/finalgenerator/FinalGenerator.pdf) [(Video - 2:55:35)](http://www.youtube.com/watch?v=5-qadlG7tWo)
 * [Learn Python Through Public Data Hacking - David Beazley](http://www.dabeaz.com/pydata/LearnPyData.pdf) [(Video - 2:38:21)](https://www.youtube.com/watch?v=RrPZza_vZ3w)
 * [Python 3 Metaprogramming - David Beazley](http://www.dabeaz.com/py3meta/Py3Meta.pdf) [(Video - 3:00:23)](https://www.youtube.com/watch?v=sPiWg5jSoZI)
+* [Modules and Packages: Live and Let Die! - David Beazley (pdf)](http://www.dabeaz.com/modulepackage/ModulePackage.pdf)
 * [Decorators: A Powerful Weapon in Your Python Arsenal - Colton Myers](https://speakerdeck.com/pycon2014/decorators-a-powerful-weapon-in-your-python-arsenal-by-colton-myers)
 * [PyCon 2014 Presentations](https://speakerdeck.com/pycon2014)
 * [Improve Your Python: 'yield' and Generators Explained - Jeff Knupp](http://www.jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/)
@@ -58,4 +59,5 @@ Yet to Categorize
 	* inspect
 	* tempfile
 * [Generating full stack traces for exceptions in Python - Graham Dumpleton](http://blog.dscpl.com.au/2015/03/generating-full-stack-traces-for.html)
-* [AST](https://docs.python.org/2/library/ast.html)  
+* [AST](https://docs.python.org/2/library/ast.html)
+* [The Elements of Python Style - Andrew Montalenti](https://github.com/amontalenti/elements-of-python-style)  
