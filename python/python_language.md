@@ -48,13 +48,13 @@ Yet to Categorize
 * contextmanager decorator
 * [import hooks](http://xion.org.pl/2012/05/06/hacking-python-imports/)
 * Python Gotchas
-	* https://pythonconquerstheuniverse.wordpress.com/category/python-gotchas/
-	* http://stackoverflow.com/questions/530530/python-2-x-gotchas-and-landmines
-	* http://www.ferg.org/projects/python_gotchas.html
-	* http://docs.python-guide.org/en/latest/writing/gotchas/
-* functools - https://docs.python.org/2/library/functools.html
-* memoryview - http://stackoverflow.com/questions/18655648/what-exactly-is-the-point-of-memoryview-in-python
-* Hidden features of python: http://stackoverflow.com/questions/101268/hidden-features-of-python
+	* [1](https://pythonconquerstheuniverse.wordpress.com/category/python-gotchas/)
+	* [2](http://stackoverflow.com/questions/530530/python-2-x-gotchas-and-landmines)
+	* [3](http://www.ferg.org/projects/python_gotchas.html)
+	* [4](http://docs.python-guide.org/en/latest/writing/gotchas/)
+* [functools](https://docs.python.org/2/library/functools.html)
+* [memoryview](http://stackoverflow.com/questions/18655648/what-exactly-is-the-point-of-memoryview-in-python)
+* [Hidden features of python](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 * Modules:
 	* inspect
 	* tempfile
