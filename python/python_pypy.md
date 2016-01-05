@@ -30,5 +30,5 @@ Yet to Categorize
 -----------------
 
 * pypy guidelines:
-	* https://bitbucket.org/pypy/pypy/wiki/JitFriendliness
-	* http://pypy.readthedocs.org/en/latest/coding-guide.html
+	* [1](https://bitbucket.org/pypy/pypy/wiki/JitFriendliness)
+	* [2](http://pypy.readthedocs.org/en/latest/coding-guide.html)
