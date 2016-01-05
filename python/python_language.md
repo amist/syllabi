@@ -60,4 +60,5 @@ Yet to Categorize
 	* tempfile
 * [Generating full stack traces for exceptions in Python - Graham Dumpleton](http://blog.dscpl.com.au/2015/03/generating-full-stack-traces-for.html)
 * [AST](https://docs.python.org/2/library/ast.html)
-* [The Elements of Python Style - Andrew Montalenti](https://github.com/amontalenti/elements-of-python-style)  
+* [The Elements of Python Style - Andrew Montalenti](https://github.com/amontalenti/elements-of-python-style)
+* [Python double-under, double-wonder - Andrew Montalenti](http://www.pixelmonkey.org/2013/04/11/python-double-under-double-wonder)  
