@@ -30,6 +30,7 @@ The categorization by levels is done not by the difficulty, but by the necessity
 
 ### Guru ###
 
+* [Classmethod - Stackoverflow](http://stackoverflow.com/questions/1950414/what-does-classmethod-do-in-this-code/1950927#1950927)
 * [What is a metaclass - Stackoverflow](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python/6581949#6581949)
 * [Marmoset Patching](https://gist.github.com/davisagli/2317969)
 
@@ -63,5 +64,4 @@ Yet to Categorize
 * [Generating full stack traces for exceptions in Python - Graham Dumpleton](http://blog.dscpl.com.au/2015/03/generating-full-stack-traces-for.html)
 * [AST](https://docs.python.org/2/library/ast.html)
 * [The Elements of Python Style - Andrew Montalenti](https://github.com/amontalenti/elements-of-python-style)
-* [Python double-under, double-wonder - Andrew Montalenti](http://www.pixelmonkey.org/2013/04/11/python-double-under-double-wonder)
-* [Classmethod - Stackoverflow](http://stackoverflow.com/questions/1950414/what-does-classmethod-do-in-this-code/1950927#1950927)
+

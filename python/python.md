@@ -29,6 +29,9 @@ Frameworks
 
 ### Misc ###
 
+* [Twisted](https://twistedmatrix.com/trac/)
+	* [An Introduction to Asynchronous Programming and Twisted - Dave Peticolas](http://krondo.com/wp-content/uploads/2009/08/twisted-intro.html)
+
 ##### Web Scraping #####
 
 * [Scrapy]()
