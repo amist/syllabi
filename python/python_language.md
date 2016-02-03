@@ -64,4 +64,4 @@ Yet to Categorize
 * [Generating full stack traces for exceptions in Python - Graham Dumpleton](http://blog.dscpl.com.au/2015/03/generating-full-stack-traces-for.html)
 * [AST](https://docs.python.org/2/library/ast.html)
 * [The Elements of Python Style - Andrew Montalenti](https://github.com/amontalenti/elements-of-python-style)
-
+* [Python internals: how callables work - Eli Bendersky](http://eli.thegreenplace.net/2012/03/23/python-internals-how-callables-work/)
