@@ -7,7 +7,7 @@
 * [tcpdump is amazing - Julia Evans](http://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/)
 
 ## XSS
-* [An XSS on Facebook via PNGs & Wonky Content Types - Jack W. (fin1te)](http://fin1te.net/articles/xss-on-facebook-via-png-content-types/)
+* [An XSS on Facebook via PNGs & Wonky Content Types - Jack W. (fin1te)](https://fin1te.net/articles/xss-on-facebook-via-png-content-types/)
 
 ## Conway’s Game of Life
 

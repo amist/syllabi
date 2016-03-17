@@ -5,7 +5,7 @@ import re
 
 def check_link(url):
     RETRIES = 3
-    http = httplib2.Http()
+    http = httplib2.Http(disable_ssl_certificate_validation=True)
     print(url + ' ', end='')
     for _ in range(RETRIES):
         try:
