@@ -1,26 +1,25 @@
-The Python Language Syllabus
-============================
+# The Python Language Syllabus
+
 ---
 
-Tutorials and Guides
---------------------
+## Tutorials and Guides
 
 The categorization by levels is done not by the difficulty, but by the necessity. For example, if a subject is in the *expert* section, it doesn't mean that it takes an expert to understand it, but that usually there's no need for a less-than-expert programmer to be familiar with this subject. The contrary is also true: when a subject is in the *beginner* section it doesn't imply that this subject is necessarily simple or easy.
 
-### Beginner ###
+### Beginner
 
 * [The Python Tutorial](https://docs.python.org/2/tutorial/index.html)
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 * [Facts and Myths about Names and Values - Ned Batchelder](http://nedbatchelder.com/text/names1/names1.html#1)
 
-### Intermediate ###
+### Intermediate
 
 * [The yield keyword (iterables and generators included) - Stackoverflow](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python/231855#231855)
 * [The Python "with" Statement by Example - Jeff Preshing](http://preshing.com/20110920/the-python-with-statement-by-example/)
 * [Python Iteration - Ned Batchelder](http://nedbatchelder.com/text/iter/iter.html#1)
 * [A Guide to Python's Magic Methods - Rafe Kettler](http://www.rafekettler.com/magicmethods.html)
 
-### Expert ###
+### Expert
 
 * [Generator Tricks For Systems Programmers - David Beazley](http://www.dabeaz.com/generators/Generators.pdf) [(Code samples)](http://www.dabeaz.com/generators/)
 * [Python 3: Using "yield from" in Generators - Part 1 - Simeon Visser](http://simeonvisser.com/posts/python-3-using-yield-from-in-generators-part-1.html)
@@ -28,7 +27,7 @@ The categorization by levels is done not by the difficulty, but by the necessity
 * [A Curious Course on Coroutines and Concurrency - David Beazley](http://www.dabeaz.com/coroutines/Coroutines.pdf) [(Code samples)](http://www.dabeaz.com/coroutines/)
 * [The exec Statement and A Python Mystery - Dan Crosta](http://late.am/post/2012/04/30/the-exec-statement-and-a-python-mystery.html)
 
-### Guru ###
+### Guru
 
 * [Classmethod - Stackoverflow](http://stackoverflow.com/questions/1950414/what-does-classmethod-do-in-this-code/1950927#1950927)
 * [What is a metaclass - Stackoverflow](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python/6581949#6581949)
@@ -36,8 +35,7 @@ The categorization by levels is done not by the difficulty, but by the necessity
 
 ---
 
-Yet to Categorize
------------------
+## Yet to Categorize
 
 * [Generators: The Final Frontier - David Beazley](http://www.dabeaz.com/finalgenerator/FinalGenerator.pdf) [(Video - 2:55:35)](http://www.youtube.com/watch?v=5-qadlG7tWo)
 * [Learn Python Through Public Data Hacking - David Beazley](http://www.dabeaz.com/pydata/LearnPyData.pdf) [(Video - 2:38:21)](https://www.youtube.com/watch?v=RrPZza_vZ3w)
